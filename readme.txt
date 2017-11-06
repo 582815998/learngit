@@ -10,5 +10,5 @@
 
 他在master上，我在dev分支，我们合并了！
 
-master and dev1
+master and dev1 and dev2
 
