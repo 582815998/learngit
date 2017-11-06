@@ -8,4 +8,5 @@
 
 大家都是猪! creating a branch is 简单又快速！
 
-他在master上
+他在master上，我在dev分支，我们合并了！
+
