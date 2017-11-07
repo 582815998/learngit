@@ -10,14 +10,5 @@
 
 他在master上，我在dev分支，我们合并了！
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-我在master分支
-=======
-我在dev1上做了点什么
-=======
-我在dev1上做了点什么again...
->>>>>>> dev1
-
->>>>>>> dev1
+git is a freeware.
 
